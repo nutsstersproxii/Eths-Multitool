@@ -19,4 +19,5 @@ This simple, ultra-light batch script that's open sourced helps you quickly test
 
 
 
-![Screenshot 2025-05-31 235621](https://github.com/user-attachments/assets/9e609a68-ff54-40f3-acee-ecd6d186d559)
+![image](https://github.com/user-attachments/assets/892b3e8c-efe9-439b-a05a-bba8902b249b)
+
