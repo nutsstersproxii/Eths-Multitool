@@ -1,6 +1,6 @@
 @echo off
 chcp 65001 > nul
-title Ehs Multitool
+title Eths Multitool
 
 :menu
 cls
@@ -14,7 +14,7 @@ echo ╚═╝     ╚═╝ ╚═════╝ ╚══════╝╚�
 echo.
 echo Made by @slashgamerx on Discord
 echo.
-echo ==== Ehs Multitool Menu ====
+echo ==== Eths Multitool Menu ====
 echo [1] DNS Lookup                        - Resolve domain names to IPs
 echo [2] IP Geolocation                    - Find geographic info of an IP
 echo [3] Ping Test                         - Check if a host is reachable
